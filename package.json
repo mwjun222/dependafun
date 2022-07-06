@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwjun222/dependafun#readme",
   "dependencies": {
-    "moment": "^2.29.3"
+    "moment": "^2.29.4"
   }
 }
